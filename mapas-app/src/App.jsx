@@ -6,7 +6,11 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-   <h>Mapas app</h>
+    <>
+   <h1>Mapas app</h1>
+    <p>Esta app te dice los lugares</p>
+    </>
+    
   )
 }
 
