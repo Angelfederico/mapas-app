@@ -8,7 +8,7 @@ function App() {
   return (
     <>
    <h1>Mapas app</h1>
-    <p>Esta app te dice los lugares</p>
+    <p>Esta app te dice los lugares turisticos</p>
     </>
     
   )
