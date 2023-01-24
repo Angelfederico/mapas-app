@@ -7,10 +7,10 @@ function App() {
 
   return (
     <>
-   <h1>Mapas app</h1>
-    <p>Esta app te dice los lugares turisticos mas conocidos</p>
+      <h1>Mapas app</h1>
+      <p>Mapa de lugares turisticos</p>
     </>
-    
+
   )
 }
 
