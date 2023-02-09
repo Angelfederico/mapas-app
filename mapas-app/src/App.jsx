@@ -6,11 +6,11 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-      <h1>Mapas app</h1>
-      <p>fiuba</p>
 
-    </>
+    <h1>Mapas app</h1>
+
+
+
 
   )
 }
