@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1>Mapas app</h1>
-      <h2>Esta es una appp de mapas que ayuda a geolocalizar</h2>
+
     </>
 
 
